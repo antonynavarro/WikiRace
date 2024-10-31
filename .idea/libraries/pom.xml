@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.cohere</groupId>
+    <artifactId>cohere-java</artifactId>
+    <version>1.x.x</version>
+</dependency>

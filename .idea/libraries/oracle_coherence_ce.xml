@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="oracle.coherence.ce" type="repository">
+    <properties maven-id="com.oracle.coherence.ce:coherence:22.09" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/coherence/ce/coherence/22.09/coherence-22.09.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
